@@ -1,0 +1,26 @@
+{
+  "name": "gitup-mailer",
+  "version": "0.0.1",
+  "description": "a mailer module for gitup",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ifraixedes/gitup-mailer.git"
+  },
+  "keywords": [
+    "gitup-mailer"
+  ],
+  "author": "Ivan Fraixedes <ivan@fraixed.es> (http://ivan.fraixed.es",
+  "contributors": [{ 
+    "name" : "Gajjar Gaurav",
+    "email" : "gajjargaurav@gmail.com"
+  }]
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ifraixedes/gitup-mailer/issues"
+  },
+  "homepage": "https://github.com/ifraixedes/gitup-mailer"
+}
