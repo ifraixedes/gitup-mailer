@@ -10,11 +10,11 @@ __NOTE__: This module is very early stage of development. This README contains s
 
 This subsection is the first one because I've already mentioned in the introduction of this document, we encourage people to contribute to discuss the specification and the involved APIs (API module and pluggins APIs).
 
-To contribute to discuss the specification and APIs, open an issue for each topic:
-- specification
+To contribute to discuss the specification and APIs, go to the specific issue
+- [specification](GitEvents/gitevents-mailer#1)
 - Module API
-- Renderer API Plugin
-- Mailer API Plugin
+- [Mailer API Plugin](GitEvents/gitevents-mailer#2)
+- [Renderer API Plugin](GitEvents/gitevents-mailer#3)
 
 ## Specification
 
