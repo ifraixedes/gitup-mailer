@@ -12,7 +12,7 @@ This subsection is the first one because I've already mentioned in the introduct
 
 To contribute to discuss the specification and APIs, go to the specific issue
 - [specification](https://github.com/GitEvents/gitevents-mailer/issues/1)
-- Module API
+- [Module API](https://github.com/GitEvents/gitevents/issues/45)
 - [Mailer API Plugin](https://github.com/GitEvents/gitevents-mailer/issues/2)
 - [Renderer API Plugin](https://github.com/GitEvents/gitevents-mailer/issues/3)
 
@@ -32,7 +32,7 @@ We've already know that this specification is challenging, due to keep it simple
 
 ## Module API
 
-The module API must fulfil the [gitevents](https://github.com/GitEvents/gitevents) API, so far it's under definiton.
+The module API must fulfil the [gitevents](https://github.com/GitEvents/gitevents) API, so far it's under definiton on [GitEvents/gitevents #45](https://github.com/GitEvents/gitevents/issues/45)
 
 The first approach that we've thought is exporting a function which receive an options object, then it returns something that we have to define if it's a function or an object.
 
